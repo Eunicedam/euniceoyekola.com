@@ -4,7 +4,7 @@ Everything you will ever need to edit is in the files below. You never need to t
 
 | What you want to change | File |
 |---|---|
-| WhatsApp number, email, Calendly link, social links | `assets/js/settings.js` (one file for every page) |
+| WhatsApp number, email, Calendly link, social links | `index.html`: the `SITE` block near the bottom (search for "SITE SETTINGS") |
 | Case studies and portfolio pieces | `data/portfolio.json` |
 | Client reviews | `data/reviews.json` |
 | Package prices and add-ons | `data/packages.json` |
